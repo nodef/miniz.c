@@ -1,0 +1,25 @@
+{
+  "name": "miniz.c",
+  "version": "3.1.0",
+  "description": "miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz; Rich Geldreich (2011).",
+  "keywords": [
+    "c",
+    "library",
+    "zlib",
+    "compression",
+    "decompression",
+    "deflate",
+    "inflate",
+    "zip"
+  ],
+  "homepage": "https://github.com/nodef/miniz.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/miniz.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/miniz.c.git"
+  },
+  "license": "MIT",
+  "main": "miniz.h"
+}
